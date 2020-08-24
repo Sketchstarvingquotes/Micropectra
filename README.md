@@ -1,2 +1,2 @@
-# Python
+# Micropectra
 Microspectra internship
